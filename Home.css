@@ -69,11 +69,11 @@ a
     background-color: orange;
     color: white;
   }
-  .diff
+  /* .diff
   {
     background-color: aqua;
     color: black !important;
-  }
+  } */
 .abovecenter{
   position: absolute;
     top: 40%;
